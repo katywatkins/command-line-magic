@@ -1,3 +1,5 @@
+# Command Line Magic
+
 ## Create aliases for commonly used commands
 It saves a ton of time. I don't love that you may end up forgetting what the actual command is, but the time it saves is huge, and it's pretty easy to keep a github file with your aliases and add them to a new machine.
 
