@@ -1,5 +1,13 @@
 # Command Line Magic
 
+
+## Commands List
+* Change directory: `cd directory/path/from-your-current-directory` (use ../ to back up a level)
+* Create a folder: `mkdir`
+* Create a new file: `touch filename`
+* Edit a file in Vim: `vim filename`
+* Exit Vim: hit the escape key, then `:wq` and hit enter
+
 ## Create aliases for commonly used commands
 It saves a ton of time. I don't love that you may end up forgetting what the actual command is, but the time it saves is huge, and it's pretty easy to keep a github file with your aliases and add them to a new machine.
 
@@ -78,14 +86,6 @@ PROMPT_COMMAND=prompt
 # retain $PROMPT_DIRTRIM directory components when the prompt is too long
 PROMPT_DIRTRIM=3
 ```
-
-
-## Commands List
-* Change directory: `cd directory/path/from-your-current-directory` (use ../ to back up a level)
-* Create a folder: `mkdir`
-* Create a new file: `touch filename`
-* Edit a file in Vim: `vim filename1`
-* Exit Vim: hit the escape key, then `:wq` and hit enter
 
 ### Disclaimer:
 This is definitely not an area of expertise for me, let me know if you have feedback or suggestions!
